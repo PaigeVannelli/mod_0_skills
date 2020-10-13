@@ -1,0 +1,15 @@
+var food = 'ramen';
+var is_delicious = true;
+food = 'mashed potatoes';
+
+var num2 = 2;
+var num7 = 8;
+var quotient = (num7 / num2)
+console.log(quotient);
+
+var song = ['Mr. Brightside', 'When you were young', 'Somebody told me'];
+song.shift();
+console.log(song);
+
+var foodLength = food.length
+console.log(foodLength)

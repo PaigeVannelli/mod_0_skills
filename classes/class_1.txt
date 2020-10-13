@@ -1,0 +1,13 @@
+class: menu
+
+attributes:
+numOfDrinks (integer)
+hasBrunchMenu (boolean)
+menuItems (array)
+appetizerCost (float)
+
+methods:
+runOutOfBeer (minus 1 to numOfDrinks)
+startDinnerService (changes hasBrunchMenu to false)
+addSpecial (add 1 new item to menuItems array)
+startHappyHour (multiply appetizer cost by .9)

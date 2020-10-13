@@ -1,0 +1,13 @@
+class: staff
+
+attributes:
+numOfStaffWorking (integer)
+restaurantManagerOnsite (boolean)
+busserNames (array)
+managerName (string)
+
+methods:
+callInSick (reduces by 1 numOfStaffWorking)
+hireBusser (Add new busser to busserNames array)
+replaceManager (changes managerName string)
+openRestaurant (changes restaurantManagerOnsite to true)

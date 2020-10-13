@@ -1,0 +1,13 @@
+instance: Finley's Restaurant staff
+
+attributes:
+numOfStaffWorking = 6
+restaurantManagerOnsite = false
+busserNames = ['Laura', 'Tim', 'Joe']
+managerName = 'Lupin'
+
+methods:
+callInSick = 5
+hireBusser = ['Laura', 'Tim', 'Joe', 'Alex']
+replaceManager = 'Sydney'
+openRestaurant = true

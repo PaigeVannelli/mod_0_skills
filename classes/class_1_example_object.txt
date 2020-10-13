@@ -1,0 +1,13 @@
+instance: Finley's Restaurant menu
+
+attributes:
+numOfDrinks = 7
+hasBrunchMenu = true
+menuItems = ['fries', 'hambuger', 'ice cream']
+appetizerCost = 5.50
+
+methods:
+runOutOfBeer = 6
+startDinnerService = false (changes hasBrunchMenu to false)
+addSpecial = ['fries', 'hambuger', 'ice cream', 'salad']
+startHappyHour = 5.50 * .9 = 4.95
